@@ -1,0 +1,15 @@
+-Google Chrome 92.0.4515.131
+-chromedriver for Selenium
+
+Paths to set:
+-path to webdriver
+-path to repo for exported Excel and CSV file
+
+Python packages:
+-datetime
+-requests
+-random
+-pandas
+-bs4
+-time
+-csv
